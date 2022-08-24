@@ -1,1 +1,1 @@
-# patika-first-css-homework-google
+# patika-third-css-homework-google
